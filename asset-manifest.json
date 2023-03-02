@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/movieland-api/static/css/main.31c4f2ed.css",
+    "main.js": "/movieland-api/static/js/main.4a050903.js",
+    "static/js/787.2bd50fdf.chunk.js": "/movieland-api/static/js/787.2bd50fdf.chunk.js",
+    "static/media/220-22057.jpg": "/movieland-api/static/media/220-22057.c07b4e31f755a64e1b6f.jpg",
+    "index.html": "/movieland-api/index.html",
+    "main.31c4f2ed.css.map": "/movieland-api/static/css/main.31c4f2ed.css.map",
+    "main.4a050903.js.map": "/movieland-api/static/js/main.4a050903.js.map",
+    "787.2bd50fdf.chunk.js.map": "/movieland-api/static/js/787.2bd50fdf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31c4f2ed.css",
+    "static/js/main.4a050903.js"
+  ]
+}
